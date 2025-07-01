@@ -1,0 +1,10 @@
+[package]
+name = "ShellFlux"
+authors = ["Luca Joshua Weiß"]
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+gtk4 = "0.6.6"
+glib = "0.17"
+
